@@ -93,4 +93,4 @@ Pipelinen (jobbet *Image* i `.github/workflows/ci.yml`) bygger `api` och `client
 
 ## Deploy
 
-Se *I molnet (M6)* ovan: staging skapas en gång med `infra/azure/skapa-staging.sh`, och pipelinen byter image vid varje merge till `main`.
+Se "I molnet (M6)" ovan: staging skapas en gång med `infra/azure/skapa-staging.sh`, och pipelinen byter image vid varje merge till `main`.
